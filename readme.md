@@ -1,6 +1,6 @@
 ```
-git commit -a -m "m1"
-git commit -a -m "m2"
+*git commit -a -m "m1"
+*git commit -a -m "m2"
 *git commit -a -m "m3"
 git log --graph --oneline --all --decorate 
 ```
