@@ -29,7 +29,7 @@ git log --graph --oneline --all --decorate
 ```
 
 ```
-git commit -a -m "m5"
+*git commit -a -m "m5"
 git log --graph --oneline --all --decorate 
 ```
 
