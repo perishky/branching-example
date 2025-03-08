@@ -14,17 +14,17 @@ git log --graph --oneline --all --decorate
 ```
 
 ```
-git switch main
-git branch try_f
-git switch try_f
-git commit -a -m "f1"
+*git switch main
+*git branch try_f
+*git switch try_f
+*git commit -a -m "f1"
 git log --graph --oneline --all --decorate 
 ```
 
 ```
-git switch main
-git merge try_e
-git commit -a -m "m4"
+*git switch main
+*git merge try_e
+*git commit -a -m "m4"
 git log --graph --oneline --all --decorate 
 ```
 
