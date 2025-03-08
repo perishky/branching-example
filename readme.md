@@ -6,9 +6,9 @@ git log --graph --oneline --all --decorate
 ```
 
 ```
-git branch try_e
-git switch try_e
-git commit -a -m "e1"
+*git branch try_e
+*git switch try_e
+*git commit -a -m "e1"
 git commit -a -m "e2"
 git log --graph --oneline --all --decorate 
 ```
